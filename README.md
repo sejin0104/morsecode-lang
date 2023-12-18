@@ -1,2 +1,2 @@
 # morsecode-lang
-무스부호를 사용한 언어입니다
+주소 변경됨 : https://github.com/sejin0104/morse_code
